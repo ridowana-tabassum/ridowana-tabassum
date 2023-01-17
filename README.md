@@ -1,9 +1,9 @@
 # <p align="center">Hi there, I'm Ridowana <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></p>
 
 ## About Me
-- Proficient in building web apps by using the MERN stack and WordPress.
-- Have a strong foundation in SQL and Python.
-- Drawing insights from data is something I really enjoy!
+- Undergraduate student.
+- Have a strong foundation in JavaScript and SQL.
+- Enjoy building web apps. 
 
 ## Connect With Me
 <div>
