@@ -1,7 +1,7 @@
 # <p align="center">Hi there, I'm Ridowana <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></p>
 
 ## About Me
-- Undergraduate student.
+- Undergraduate student in Computer science and engineering.
 - Have a strong foundation in JavaScript and SQL.
 - Enjoy building web apps. 
 
