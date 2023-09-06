@@ -1,9 +1,9 @@
 # <p align="center">Hi there, I'm Ridowana <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></p>
 
 ## About Me
-🎓 Computer Science and Engineering graduate from Notre Dame University Bangladesh
-🤖 Passionate about AI, Data Science, and Innovation
-💡 Committed to continuous learning and pushing technological boundaries
+- 🎓 Computer Science and Engineering graduate from Notre Dame University Bangladesh
+- 🤖 Passionate about AI, Data Science, and Innovation
+- 💡 Committed to continuous learning and pushing technological boundaries
 
 ## Technical Skills
 ### Languages
