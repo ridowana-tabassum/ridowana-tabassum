@@ -2,8 +2,7 @@
 
 ## About Me
 - 🎓 Computer Science and Engineering graduate from Notre Dame University Bangladesh
-- 🤖 Passionate about AI, Data Science, and Innovation
-- 💡 Committed to continuous learning and pushing technological boundaries
+- 💡 Passionate about AI, Data Science, and Innovation
 
 ## Technical Skills
 ### Languages
