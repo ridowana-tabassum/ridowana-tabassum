@@ -2,9 +2,8 @@
 
 ## About Me
 🎓 Computer Science and Engineering graduate from Notre Dame University Bangladesh
-🤖 Junior Machine Learning Engineer at Fusion Technology
-💡 Passionate about AI, Data Science, and Innovation
-🚀 Committed to continuous learning and pushing technological boundaries
+🤖 Passionate about AI, Data Science, and Innovation
+💡 Committed to continuous learning and pushing technological boundaries
 
 ## Technical Skills
 ### Languages
