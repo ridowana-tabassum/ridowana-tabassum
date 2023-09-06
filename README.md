@@ -29,15 +29,6 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
 
-## Connect With Me
-<div>
-  <a href="PORTFOLIO WEBSITE LINK" alt="Portfolio" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/65736523/198874286-b485e529-50e4-49b5-a237-2dc5e62d6815.png" alt="Web" width="30px" /></a>
- <a href="mailto:ridowana.tabassum@gmail.com" alt="ridowana.tabassum@gmail.com" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/65736523/198883053-023b7933-876b-4853-9d6f-22255a55c723.png" alt="Email" width="30px" /></a>
-  <a href="https://www.linkedin.com/in/ridowana-tabassum-98968024a/" alt="ridowana-tabassum" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/65736523/198874337-9ea0550e-6946-4c37-8798-47d9983a4d5a.png" alt="LinkedIn" width="30px" /></a>
-</div>
-<br>
-<br>
-
 ## GitHub Stats
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ridowana-tabassum&show_icons=true&theme=merko" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridowana-tabassum&layout=compact&hide=html,css,c%2B%2B&theme=merko" />
