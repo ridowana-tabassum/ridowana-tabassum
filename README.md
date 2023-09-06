@@ -2,19 +2,19 @@
 
 ## About Me
 
-### Education
+#### Education
 - 🎓 Computer Science and Engineering graduate from Notre Dame University Bangladesh
 
-### Professional Experience
+#### Professional Experience
 - 🤖 Junior Machine Learning Engineer at Fusion Technology
 
-### Interests
+#### Interests
 - 💡 Passionate about AI, Data Science, and Innovation
 
-## #Motto
+#### Motto
 - 🚀 Committed to continuous learning and pushing technological boundaries
 
-### Let's Connect
+#### Let's Connect
 - 🌐 Let's connect and explore the possibilities together! 🚀
 
 
