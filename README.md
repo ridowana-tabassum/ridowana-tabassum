@@ -1,21 +1,16 @@
 # <p align="center">Hi there, I'm Ridowana <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></p>
 
 ## About Me
-
 #### Education
-- 🎓 Computer Science and Engineering graduate from Notre Dame University Bangladesh
-
+🎓 Computer Science and Engineering graduate from Notre Dame University Bangladesh
 #### Professional Experience
-- 🤖 Junior Machine Learning Engineer at Fusion Technology
-
+🤖 Junior Machine Learning Engineer at Fusion Technology
 #### Interests
-- 💡 Passionate about AI, Data Science, and Innovation
-
+💡 Passionate about AI, Data Science, and Innovation
 #### Motto
-- 🚀 Committed to continuous learning and pushing technological boundaries
-
+🚀 Committed to continuous learning and pushing technological boundaries
 #### Let's Connect
-- 🌐 Let's connect and explore the possibilities together! 🚀
+🌐 Let's connect and explore the possibilities together! 🚀
 
 
 ## Technical Skills
