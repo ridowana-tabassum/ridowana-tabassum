@@ -29,6 +29,4 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
 
-## GitHub Stats
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ridowana-tabassum&show_icons=true&theme=merko" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridowana-tabassum&layout=compact&hide=html,css,c%2B%2B&theme=merko" />
+
