@@ -1,8 +1,7 @@
-# <p align="center">Hi there, I'm Ridowana <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></p>
+# <p align="center">Hi there, I'm Ridowana </p>
 
 ## About Me
 - 🎓 Computer Science and Engineering graduate from Notre Dame University Bangladesh
-- 💡 Passionate about AI, ML, Data Science and Innovation
 
 ## Technical Skills
 ### Languages
