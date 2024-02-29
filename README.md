@@ -1,5 +1,3 @@
-# <p align="center">Hi there, I'm Ridowana </p>
-
 ## About Me
 - 🎓 Computer Science and Engineering graduate from Notre Dame University Bangladesh
 
