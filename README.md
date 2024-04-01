@@ -1,6 +1,3 @@
-## About Me
-- 🎓 Computer Science and Engineering graduate from Notre Dame University Bangladesh
-
 ## Technical Skills
 ### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
